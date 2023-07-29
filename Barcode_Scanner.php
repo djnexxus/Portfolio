@@ -1,4 +1,3 @@
-```php
 public function scan(Request $request)
     {
         // Validate the incoming data and ensure the "Serial Number" passes the regex test.
@@ -43,4 +42,3 @@ public function scan(Request $request)
         // Return the error message to the view to update the user of the status of the scan.
         return view('scanner', ['errMessage'=>$errMessage]);
     }
-```
