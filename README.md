@@ -1,6 +1,9 @@
 # Portfolio
 This is my portfolio of some of my work. Snippets of code that was produced in the actual production environment and a breif explanation of its application.
 
+Project : Hanheld Barcode Scanner
+Issue : Client aquired this scanner and was unable to integrate it into their existing production system due to a combination of software incompatabilities and cost of ownership. The issue was resolved using a custom php SAS which was accessed by the scanner through it's default web browser and allowed the system to scan directly to the pre-existing database. 
+
 <img src="php/handheld.jpg" class="center" alt="Barcode Scanner" title="Barcode Scanner">
 
 ```php
