@@ -1,7 +1,7 @@
 # Portfolio
 This is my portfolio of some of my work. Snippets of code that was produced in the actual production environment and a breif explanation of its application.
 
-<img src="php/handheld.jpg" alt="Alt text" title="Optional title">
+<img src="php/handheld.jpg" class="center" alt="Barcode Scanner" title="Barcode Scanner">
 
 ```php
 public function scan(Request $request)
